@@ -58,7 +58,7 @@
 ## 📫 Let's Connect!
 
 - LinkedIn: [Tioluwani Enoch Olubunmi](https://www.linkedin.com/in/tioluwani-enoch)
-- Email: tioluwani.enoch.olubunmi@gmail.com
+- Email: teolubunmi@gmail.com
 - GitHub: [@tioluwani-enoch](https://github.com/tioluwani-enoch)
 
 ---
