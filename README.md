@@ -43,7 +43,7 @@
   _A clean React site that showcases my skills and projects_
 
 - **project-collab-hub** – A site for CS students to find buddys who like their ideas (deployed soon!)  
-  _A clean React site that helps students find someone that likes theri idea and wants to join them _
+  _A clean React site that helps students find someone that likes theri idea and wants to join them_
 
 👉 _Check my pinned repos or scroll down!_
 
