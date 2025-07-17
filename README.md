@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tioluwani Enoch Olubunmi
 
-**Aspiring Software Engineer | Data Scientist | Future Founder**  
+**Aspiring Software Engineer | AI/ML Enthusiast**  
 🌍 International Student @ Knox College | 🎓 Double Major in Computer Science & Data Science  
 🚀 Passionate about building digital tools that solve real-world problems.
 
