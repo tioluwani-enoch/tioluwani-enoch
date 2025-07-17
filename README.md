@@ -54,6 +54,8 @@
 <p>
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tioluwani-enoch&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=tioluwani-enoch&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tioluwani-enoch&theme=radical&show_icons=true&include_all_commits=true&hide_border=true" alt="Faith's GitHub stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tioluwani-enoch&theme=radical&langs_count=8&layout=compact&hide_border=true" alt="Faith's GitHub stats" /> 
 </p>
 
 ---
