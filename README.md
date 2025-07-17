@@ -52,8 +52,8 @@
 ## 📈 My GitHub Stats
 
 <p>
-  <img width="48%" align="center" src="https://github-readme-stats.vercel.app/api?username=tioluwani-enoch&theme=radical&show_icons=true&include_all_commits=true" alt="Enoch's GitHub stats" />
-  <img width="48%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tioluwani-enoch&theme=radical&langs_count=8&layout=compact" alt="Enoch's GitHub stats" /> 
+  | <img align="center" src="https://github-readme-stats.vercel.app/api?username=tioluwani-enoch&theme="radical"&show_icons=true&include_all_commits=true&hide_border=true" alt="Faith's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tioluwani-enoch&theme="radical"&langs_count=8&layout=compact&hide_border=true" alt="Faith's GitHub stats" /> |
+| ------------- | ------------- |
 </p>
 <p>
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=tioluwani-enoch&theme=radical" alt="Enoch's Github Stats" />
